@@ -57,10 +57,15 @@ We believe that leveraging pre-trained models democratizes the use of artificial
 
 
 ## 📁 Estructura del repositorio
+
 ├── data/ # Training and validation data.
+
 ├── notebooks/ # Google Colab.
+
 ├── models/ # Fine-tuned model weights (if applicable).
+
 ├── src/ # Source code (e.g, preprocessing, model training).
+
 ├── README.md # This file.
 
 ## 👥 Team
