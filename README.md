@@ -1,7 +1,7 @@
 # Proyecto-de-Transfer-Learning
 Transfer learning project developed as part of the AI ​​bootcamp. We applied fine-tuning techniques to pre-trained models to solve a real-world problem using a small dataset. The goal is to demonstrate how to repurpose existing models to achieve effective results in a short period of time.
 
-# Transfer Learning Project - [Project Title]
+# Transfer Learning Project - [Art Classifier]
 
 This project was developed as part of the Transfer Learning module of an Artificial Intelligence bootcamp. Over the course of three days, our team applied fine-tuning techniques on a pre-trained model to address a specific problem that we are passionate about.
 
